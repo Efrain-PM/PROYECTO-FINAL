@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749415081344",
+    "project_id": "aplicacion-taller-ba3aa",
+    "storage_bucket": "aplicacion-taller-ba3aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749415081344:android:542a281050b15684d54d65",
+        "android_client_info": {
+          "package_name": "com.example.aplicaciontaller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZuE13IEwuDn69hv15ssA3J__wYkohcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749415081344:android:22fe4a119911178bd54d65",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZuE13IEwuDn69hv15ssA3J__wYkohcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
